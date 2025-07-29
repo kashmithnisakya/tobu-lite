@@ -1,0 +1,2 @@
+jac-cloud==0.2.1
+mtllm[openai]
